@@ -89,8 +89,8 @@ E --> F[Prediction System]
 > *(Add your images in `/images` folder)*
 
 <p align="center">
-  <img src="images/demo1.png" width="400"/>
-  <img src="images/demo2.png" width="400"/>
+  <img src="layout 1.png" width="400"/>
+  <img src="layout 2.png" width="400"/>
 </p>
 
 ---
