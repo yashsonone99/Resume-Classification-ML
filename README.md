@@ -84,13 +84,11 @@ E --> F[Prediction System]
 
 ---
 
-# 📸 Screenshots
-
-> *(Add your images in `/images` folder)*
+# 📸 Screenshots of Deployment
 
 <p align="center">
-  <img src="layout 1.png" width="400"/>
-  <img src="layout 2.png" width="400"/>
+  <img src="layout 1.png" width="100%"/><br>
+  <img src="layout 2.png" width="100%"/>
 </p>
 
 ---
