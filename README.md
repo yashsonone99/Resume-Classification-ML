@@ -1,7 +1,7 @@
 <!-- ========================= HERO SECTION ========================= -->
 
 <p align="center">
-  <img src="https://www.shutterstock.com/search/resume-icon?image_type=vector" alt="banner"/>
+  <img src="banner.png" width="100%" alt="Resume Classification Banner"/>
 </p>
 
 <h1 align="center">📄 Resume Classification System</h1>
