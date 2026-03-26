@@ -1,7 +1,7 @@
 <!-- ========================= HERO SECTION ========================= -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Resume+Classification+System+%7C+ML+%2B+NLP" alt="banner"/>
+  <img src="https://www.shutterstock.com/search/resume-icon?image_type=vector" alt="banner"/>
 </p>
 
 <h1 align="center">📄 Resume Classification System</h1>
